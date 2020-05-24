@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/testegitpages.github.io/static/css/main.6ee5bf60.chunk.css",
+    "main.js": "/testegitpages.github.io/static/js/main.38821ae5.chunk.js",
+    "main.js.map": "/testegitpages.github.io/static/js/main.38821ae5.chunk.js.map",
+    "runtime-main.js": "/testegitpages.github.io/static/js/runtime-main.5909765c.js",
+    "runtime-main.js.map": "/testegitpages.github.io/static/js/runtime-main.5909765c.js.map",
+    "static/js/2.8a3a894b.chunk.js": "/testegitpages.github.io/static/js/2.8a3a894b.chunk.js",
+    "static/js/2.8a3a894b.chunk.js.map": "/testegitpages.github.io/static/js/2.8a3a894b.chunk.js.map",
+    "index.html": "/testegitpages.github.io/index.html",
+    "precache-manifest.4edfaa58c0e3b9ddc3758b69b7ef2f22.js": "/testegitpages.github.io/precache-manifest.4edfaa58c0e3b9ddc3758b69b7ef2f22.js",
+    "service-worker.js": "/testegitpages.github.io/service-worker.js",
+    "static/css/main.6ee5bf60.chunk.css.map": "/testegitpages.github.io/static/css/main.6ee5bf60.chunk.css.map",
+    "static/js/2.8a3a894b.chunk.js.LICENSE.txt": "/testegitpages.github.io/static/js/2.8a3a894b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5909765c.js",
+    "static/js/2.8a3a894b.chunk.js",
+    "static/css/main.6ee5bf60.chunk.css",
+    "static/js/main.38821ae5.chunk.js"
+  ]
+}
