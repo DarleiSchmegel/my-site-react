@@ -8,9 +8,9 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          teste for git pages
+          test for git pages. My second test
         </p>
-        
+        <i class="fa fa-external-link-square" aria-hidden="true"></i>
       </header>
     </div>
   );
