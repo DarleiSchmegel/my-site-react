@@ -10,7 +10,7 @@ export default function Main() {
 
     return (
         <div className="main">
-            <h1>Olá mundo!</h1>
+            <h1>Olá mundo!!!</h1>
         </div>
     )
 };
