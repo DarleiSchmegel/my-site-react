@@ -2,7 +2,7 @@
   "name": "my-site",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://darleischmegel.github.io/testegitpages.github.io/",
+  "homepage": "https://darleischmegel.github.io/my-site/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
@@ -10,6 +10,7 @@
     "acorn": "^7.1.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
+    "react-router-dom": "^5.2.0",
     "react-scripts": "3.4.1"
   },
   "scripts": {

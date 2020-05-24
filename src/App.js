@@ -1,14 +1,16 @@
 import React from 'react';
-import './App.css';
+//import logo from './logo.svg';
+//import './App.css';
+//import './global.css';
+
+import Routes from './routes';
+//import Header from './Header';
+
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <p>
-          test for git pages. My second test
-        </p>
-      </header>
+    <div className="contente">
+      <h1>Olá mundo!</h1>
     </div>
   );
 }
