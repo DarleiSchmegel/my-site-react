@@ -4,13 +4,13 @@ import './styles.css';
 
 
 //import logoImg from '../../assets/logo.svg';
-export default function Main() {
+export default function NoMatch() {
      
     
 
     return (
         <div className="main">
-            <h1>Olá mundo!!!</h1>
+            <h1>conteudo não encontrado!</h1>
         </div>
     )
 };

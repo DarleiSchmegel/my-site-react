@@ -1,0 +1,18 @@
+.home {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 1040;
+}
+img#eu {
+    margin-top: 10%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+     
+    border-radius: 70%;
+    display: block;
+    padding: 20px;
+      margin-left: 20%;
+      margin-right: 20%;
+}
