@@ -10,7 +10,7 @@ export default function Menu() {
       <div className="container-nave navbar-dark bg-dark">
         <header id="cabecalho">
             <div className="container">
-            <nav className="navbar navbar-expand-md navbar-dark bg-dark" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    
+            <nav className="navbar navbar-expand-md navbar-dark bg-dark" >  
                 <h1>Darlei</h1>
                 <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Alterna navegação">
                     <span className="navbar-toggler-icon"></span>

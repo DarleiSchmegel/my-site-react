@@ -6,6 +6,7 @@ import { HashRouter, Route, Link, Switch, BrowserRouter } from "react-router-dom
 
 import Routes from './routes';
 import Menu from './Menu';
+import Fixed from './Fixed'
 class App extends Component {
   render() {
     return (
@@ -21,6 +22,7 @@ class App extends Component {
         
           <Routes />
           
+          <Fixed />
         </div>
       </HashRouter>
         </Switch>
