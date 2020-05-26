@@ -11,7 +11,7 @@ export default function Menu() {
         <header id="cabecalho">
             <div className="container">
             <nav className="navbar navbar-expand-md navbar-dark bg-dark" >  
-                <h1>Darlei</h1>
+                <h1>DMSchmegel</h1>
                 <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Alterna navegação">
                     <span className="navbar-toggler-icon"></span>
                 </button>

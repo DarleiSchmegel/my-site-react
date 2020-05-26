@@ -1,4 +1,7 @@
 a.bt-whats {
+  -webkit-transition: opacity 0.3s;
+  -moz-transition: opacity 0.3s;
+  transition: opacity 0.3s;
     background: #4dc247;
       bottom: 2px;
       color: #FFF;
@@ -13,12 +16,15 @@ a.bt-whats {
       text-decoration: none;
       min-width: 49px;
       z-index: 1040;
+      transition: 400ms;
+  }
+  a.bt-whats:hover {
+    bottom: 8px;
+    
   }
   .scrollToTop{
     
-    -webkit-transition: opacity 0.3s;
-    -moz-transition: opacity 0.3s;
-    transition: opacity 0.3s;
+    
     background: #404040;
     border-radius: 7px 7px 0 0;
     bottom: 0;
@@ -36,6 +42,7 @@ a.bt-whats {
   }
   .scrollToTop:hover {
     text-decoration: none;
+
   }
   .navbar-toggler:hover{
     -webkit-transition: opacity 0.3s;

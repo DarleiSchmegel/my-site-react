@@ -1,0 +1,16 @@
+.about {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    padding-top: 150px;
+    padding-left: 20%;  
+    padding-right: 20%;
+    padding-bottom: 25%;
+}
+.about h4 {
+    text-align: center;
+}
+.about p {
+    text-align: left;
+}
