@@ -7,11 +7,11 @@ import './styles.css';
 //import vbsconstrutora from '../../images/vbsconstrutora.png';
 export default function Menu() {
     return (
-      <div className="container-nave navbar-dark bg-dark">
+      <div id="nave"className="container-nave navbar-dark bg-dark">
         <header id="cabecalho">
             <div className="container">
-            <nav className="navbar navbar-expand-md navbar-dark bg-dark" >  
-                <h1>DMSchmegel</h1>
+            <nav id="nave-bar" className="navbar navbar-expand-md navbar-dark bg-dark" >  
+                <h3>DMSchmegel</h3>
                 <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Alterna navegação">
                     <span className="navbar-toggler-icon"></span>
                 </button>
@@ -24,7 +24,7 @@ export default function Menu() {
                         </li>
                         &nbsp;&nbsp;&nbsp;&nbsp;
                         <li className="nav-item">
-                            <Link className="nav-item nav-link" to="/portifolio">Portifólio</Link>
+                            <Link className="nav-item nav-link" to="/portifolio" >Portifólio</Link>
                         </li>
                          &nbsp;&nbsp;&nbsp;&nbsp;
                         <li className="nav-item">

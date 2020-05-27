@@ -1,0 +1,29 @@
+.portf-container {
+    
+    
+    margin-top: 85px;
+    text-align: center;
+    margin-bottom: 50px;
+    
+}
+.portf-container h3 {
+    color: black;
+    margin-bottom: 15px;
+}
+.aria-selected {
+    background-color: blue;
+    
+}
+.tab-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    
+   
+}
+.tab-pane {
+    max-width: 1200px;
+    margin-top: 20px;
+    padding: 8px;
+}

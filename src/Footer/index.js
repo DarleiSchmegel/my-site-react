@@ -3,7 +3,7 @@ import './style.css';
 export default function Footer() {
     return (
         <footer id="rodape">
-            <p> Com ❤ DMSchmegel</p>
+           
             <div className="social">
                 <a className="bt-social" href="https://www.linkedin.com/in/darlei-schmegel-9766981a5/" target="_blank" rel="noopener noreferrer">
                     <i id="social" className="fab fa-linkedin"></i>

@@ -4,7 +4,7 @@ import { BrowserRouter, Switch , Route, HashRouter } from 'react-router-dom';
 
 import Home from './pages/Home';
 import About from './pages/About';
-import NoMatch from './pages/NoMatch';
+import Portfolio from './pages/Portfolio';
 
 export default function Routes() {
     return(
@@ -14,6 +14,8 @@ export default function Routes() {
                 <Route path="/" exact component={Home} />
                 
                 <Route path="/about" component={About} />
+
+                <Route path="/portifolio" component={Portfolio} />
             </>  
             
         
